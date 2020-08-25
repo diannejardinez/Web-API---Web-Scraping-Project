@@ -1,4 +1,4 @@
-# Web API & Web Scraping Refresher Project
+# Web API Refresher Project
 
 ## Web API
 **Objective**: 
