@@ -1,6 +1,6 @@
 # Web API & Web Scraping Refresher Project
 
-#Web API
+## Web API
 **Objective**: Using Web API to obtain information from News Websites regarding Mental Health Services during COVID. Timeframe from January 01, 2020 to August 2020.
 
 - [New York Times API](https://developer.nytimes.com/)
